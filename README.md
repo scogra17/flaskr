@@ -9,4 +9,7 @@
 	$ flask run
 
 ### Flaskr tutorial 
-- https://flask.palletsprojects.com/en/1.1.x/tutorial/blog/
+- https://flask.palletsprojects.com/en/1.1.x/tutorial/install/
+
+### Dev journal 
+https://docs.google.com/document/d/1fzTE_AFB1A7JmUz-4jXnifOgEtxpAvjl_dLOgh2XTK8/edit?usp=sharing
